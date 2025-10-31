@@ -2,10 +2,8 @@
 ![Project Type](https://img.shields.io/badge/Type-Portfolio_Project-informational)
 [![Dockerized](https://img.shields.io/badge/Dockerized-Yes-blue)](https://www.docker.com/)
 [![Self-Hosted](https://img.shields.io/badge/Self--Hosted-True-purple)](#)
-
 ![Last Commit](https://img.shields.io/github/last-commit/StevenKearney/Kanboard-Workflow-Manager)
 ![Repo Size](https://img.shields.io/github/repo-size/StevenKearney/Kanboard-Workflow-Manager)
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ### 🗓️ Created: 2025-10-30  🆙 Last Updated: 2025-10-30  📈 Status: ✅ Completed
