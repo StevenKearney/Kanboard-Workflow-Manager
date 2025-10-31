@@ -139,11 +139,12 @@ I think everyone should incorporate some sort of task tracking system that fits 
 ---
 ### 🧱 Changelog
 
-| Date       | Change                              | Notes                                                             |
-| ---------- | ----------------------------------- | ----------------------------------------------------------------- |
-| 2025-10-29 | Began project                       | Spun up Kanboard as a Docker container                            |
-| 2025-10-30 | Initial setup and testing complete  | Finished my primary Kanboard setup with automations, plugins, etc |
-| 2025-10-30 | Created project writeup in Obsidian | Created draft to review before git push                           |
+| Date | Change | Notes |
+|------|---------|-------|
+| 2025-10-29 | Began project | Spun up Kanboard as a Docker container |
+| 2025-10-30 | Initial setup and testing complete | Finished my primary Kanboard setup with automations, plugins, etc |
+| 2025-10-30 | Created project writeup in Obsidian | Created draft to review before git push |
+
 
 ---
 
