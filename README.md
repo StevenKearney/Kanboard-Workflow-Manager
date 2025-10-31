@@ -8,7 +8,7 @@
 
 ### 🗓️ Created: 2025-10-30  🆙 Last Updated: 2025-10-30  📈 Status: ✅ Completed
 
-> **Short Description:** A self-hosted Kanban board built with [Kanboard](https://github.com/kanboard/kanboard), featuring automated task management, color-coded priorities, and Discord webhook integration. 
+> A self-hosted Kanban board built with [Kanboard](https://github.com/kanboard/kanboard), featuring automated task management, color-coded priorities, and Discord webhook integration. 
 
 ---
 ### 🎯 Reason for This Project
