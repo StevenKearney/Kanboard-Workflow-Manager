@@ -93,25 +93,28 @@ All of these were minor friction points, not dealbreakers. The end result functi
 Below are screenshots showing the final workflow and configuration.
 
 #### 🔐 Login
-Kanboard’s login screen, themed with the ApplicationBranding plugin.
+Kanboard’s login screen, themed with the ApplicationBranding plugin.  
 ![Login Page](assets/Login.png)
 
 #### 🏠 Dashboard
-An overview of the different project boards and assigned tasks, can be sorted in different ways.
+An overview of the different project boards and assigned tasks, can be sorted in different ways.  
 ![Dashboard](assets/Dashboard.png)
 
 #### 📋 Kanboard Project
-The main page within the project. Allows you to view, create, and manage tasks easily.
+The main page within the project. Allows you to view, create, and manage tasks easily.  
 ![Kanboard](assets/Kanboard.png)
+
 #### ⚙️ Automation Rules
-My automation configuration for task colors, due date warnings, and auto-closing behavior.
+My automation configuration for task colors, due date warnings, and auto-closing behavior.  
 ![Automation 1](assets/Automation1.png)
 ![Automation2](assets/Automation2.png)
+
 #### 🔌 Plugins
-Installed Kanboard plugins that increase functionality and alter the vanilla view.
+Installed Kanboard plugins that increase functionality and alter the vanilla view.  
 ![Plugins](assets/Plugins.png)
+
 #### 🏷️ Tags
-Custom tags for quick filtering and grouping of tasks.
+Custom tags for quick filtering and grouping of tasks.  
 ![Tags](assets/Tags.png)
 
 
