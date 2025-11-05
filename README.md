@@ -6,7 +6,7 @@
 ![Repo Size](https://img.shields.io/github/repo-size/StevenKearney/Kanboard-Workflow-Manager)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-### 🗓️ Created: 2025-10-30  🆙 Last Updated: 2025-10-30  📈 Status: ✅ Completed
+### 🗓️ Created: 2025-10-30  🆙 Last Updated: 2025-11-05  📈 Status: ✅ Completed
 
 > A self-hosted Kanban board built with [Kanboard](https://github.com/kanboard/kanboard), featuring automated task management, color-coded priorities, and Discord webhook integration. 
 
@@ -25,7 +25,7 @@ This was a much needed project. Previously, I was using note-taking applications
 - ✅ **Connect it to my Tailscale network for secure remote access.**
 - ✅ **Build swimlanes for Homelab, Study, Career, and Personal tasks.**
 - ✅ **Create a clean workflow: Backlog → Up Next → In Progress → Waiting → Review → Complete.**
-- ✅ **Use color-coded priorities (-2 to 3) for quick visual urgency checks.** 
+- ✅ **Use color-coded priorities (-2 to 3) for quick visual urgency checks.**  
     _Implemented through automation rules and the [ColorManager](https://github.com/aljawaid/ColorManager) plugin._
 - ✅ **Automate task color, comments, and status updates with event rules and daily cron jobs.**
 - ✅ **Add automatic start dates, timers, comments, auto-closing, and archiving for task lifecycle management.**
@@ -151,6 +151,7 @@ I think everyone should incorporate some sort of task tracking system that fits 
 | 2025-10-29 | Began project | Spun up Kanboard as a Docker container |
 | 2025-10-30 | Initial setup and testing complete | Finished my primary Kanboard setup with automations, plugins, etc |
 | 2025-10-30 | Created project writeup in Obsidian | Created draft to review before git push |
+| 2025-11-05 | Fixed formatting in README | |
 
 
 ---
